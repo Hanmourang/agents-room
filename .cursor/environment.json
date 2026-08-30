@@ -1,0 +1,4 @@
+{
+  "name": "Agents Room",
+  "install": "yarn install --frozen-lockfile"
+}
